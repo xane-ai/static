@@ -38,4 +38,3 @@ function themeSelector(cid, env) {
 
 console.log(themeSelector(19, "development"));
 
-module.exports = themeSelector;
