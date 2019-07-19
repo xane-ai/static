@@ -36,5 +36,5 @@ function themeSelector(cid, env) {
   return config;
 }
 
-console.log(themeSelector(19, "development"));
+
 
