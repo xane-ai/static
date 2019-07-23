@@ -1,4 +1,4 @@
-import {React} from 'react';
+import React from 'react';
 
 export const function themeSelector(cid, env) {
   // default
