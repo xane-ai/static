@@ -1,6 +1,6 @@
 
 
-export const function themeSelector(cid, env) {
+function themeSelector(cid, env) {
   // default
   let config = {
     formBG: "#2a2a2a",
@@ -39,4 +39,4 @@ export const function themeSelector(cid, env) {
 }
 
 
-
+module.exports = theme;
